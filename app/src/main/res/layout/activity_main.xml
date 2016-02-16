@@ -12,9 +12,9 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
-    <TextView
+        android:text="my homework 2"/>
+    <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="my homework 2"/>
+        android:text="@string/text_edittext"/>
 </RelativeLayout>
